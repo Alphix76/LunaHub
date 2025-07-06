@@ -1,0 +1,5 @@
+if game.PlaceId == 3956818381 then
+  
+else
+  game.PLayers.LocalPlayer:kick("Maps Not Supported")
+end
