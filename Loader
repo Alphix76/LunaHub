@@ -1,5 +1,5 @@
 if game.PlaceId == 3956818381 then
-  
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/DrTxZ/LunaHub/refs/heads/main/Ninja%20Legends"))();
 else
   game.PLayers.LocalPlayer:kick("Maps Not Supported")
 end
